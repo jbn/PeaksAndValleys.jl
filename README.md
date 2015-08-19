@@ -1,7 +1,7 @@
 PeaksAndValleys
 ===
 
-[![Build Status](https://travis-ci.org/jbn/PeaksAndValleys.jl.svg?branch=master)](https://travis-ci.org/jbn/PeaksAndValleys.jl)
+[![Build Status](https://travis-ci.org/jbn/PeaksAndValleys.svg?branch=master)](https://travis-ci.org/jbn/PeaksAndValleys)
 [![PeaksAndValleys](http://pkg.julialang.org/badges/PeaksAndValleys_0.3.svg)](http://pkg.julialang.org/?pkg=PeaksAndValleys&ver=release)
 [![PeaksAndValleys](http://pkg.julialang.org/badges/PeaksAndValleys_0.4.svg)](http://pkg.julialang.org/?pkg=PeaksAndValleys&ver=nightly)
 [![Coverage Status](https://coveralls.io/repos/jbn/PeaksAndValleys/badge.svg?branch=master&service=github)](https://coveralls.io/github/jbn/PeaksAndValleys?branch=master)
