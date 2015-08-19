@@ -1,10 +1,12 @@
 module PeaksAndValleys
 
+using Compat
+
 export PEAK, VALLEY
 export identify_initial_pivot, peak_valley_pivots, max_drawdown
 export compute_segment_returns, pivots_to_modes
 
-const PEAK, VALLEY = Int8(1), Int8(-1)
+@compat const PEAK, VALLEY = Int8(1), Int8(-1)
 
 """Quickly identify the xs[1] as a peak or valley."""
 function identify_initial_pivot(xs, up_thresh, down_thresh)
