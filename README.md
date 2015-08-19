@@ -5,7 +5,7 @@ PeaksAndValleys
 [![PeaksAndValleys](http://pkg.julialang.org/badges/PeaksAndValleys_0.3.svg)](http://pkg.julialang.org/?pkg=PeaksAndValleys&ver=release)
 [![PeaksAndValleys](http://pkg.julialang.org/badges/PeaksAndValleys_0.4.svg)](http://pkg.julialang.org/?pkg=PeaksAndValleys&ver=nightly)
 [![Coverage Status](https://coveralls.io/repos/jbn/PeaksAndValleys/badge.svg?branch=master&service=github)](https://coveralls.io/github/jbn/PeaksAndValleys?branch=master)
-[![Build status](https://ci.appveyor.com/api/projects/status/097d6yxplrk8etp7?svg=true)](https://ci.appveyor.com/project/jbn/PeaksAndValleys-jl)
+[![Build status](https://ci.appveyor.com/api/projects/status/vklh0aegfkk13dg0/branch/master?svg=true)](https://ci.appveyor.com/project/jbn/peaksandvalleys/branch/master)
 
 
 **This package imputes pivot points (i.e. peaks and valleys) from a sequence.**
