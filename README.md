@@ -4,7 +4,7 @@ PeaksAndValleys
 [![Build Status](https://travis-ci.org/jbn/PeaksAndValleys.jl.svg?branch=master)](https://travis-ci.org/jbn/PeaksAndValleys.jl)
 [![PeaksAndValleys](http://pkg.julialang.org/badges/PeaksAndValleys_0.3.svg)](http://pkg.julialang.org/?pkg=PeaksAndValleys&ver=release)
 [![PeaksAndValleys](http://pkg.julialang.org/badges/PeaksAndValleys_0.4.svg)](http://pkg.julialang.org/?pkg=PeaksAndValleys&ver=nightly)
-[![Coverage Status](https://coveralls.io/repos/jbn/PeaksAndValleys.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/jbn/PeaksAndValleys.jl?branch=master)
+[![Coverage Status](https://coveralls.io/repos/jbn/PeaksAndValleys/badge.svg?branch=master&service=github)](https://coveralls.io/github/jbn/PeaksAndValleys?branch=master)
 [![Build status](https://ci.appveyor.com/api/projects/status/097d6yxplrk8etp7?svg=true)](https://ci.appveyor.com/project/jbn/PeaksAndValleys-jl)
 
 
