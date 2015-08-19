@@ -1,6 +1,8 @@
 using PeaksAndValleys
 using Base.Test
 
+using Compat
+
 function test_initial_pivot()
     # Strictly increasing.
     data = linspace(1.0, 2.0, 10)
