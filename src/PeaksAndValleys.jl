@@ -85,7 +85,8 @@ function peak_valley_pivots(xs, up_thresh, down_thresh)
     trend = -initial_pivot
     last_pivot_t = 1
     last_pivot_x = xs[1]
-    for (t, x) in enumerate(xs)
+    for (t, x) in enumerate(xs[2:end])
+        t += 1
         r = x / last_pivot_x
 
         if trend == -1
@@ -111,11 +112,7 @@ function peak_valley_pivots(xs, up_thresh, down_thresh)
         end
     end
 
-    if last_pivot_t == t_n
-        pivots[last_pivot_t] = trend
-    elseif pivots[t_n] == 0
-        pivots[t_n] = -trend
-    end
+    pivots[t_n] == 0 && (pivots[t_n] = trend)
 
     return pivots
 end
